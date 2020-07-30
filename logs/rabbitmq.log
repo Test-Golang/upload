@@ -1,0 +1,355 @@
+2020/06/20 18:15:18.555 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/20 18:15:22.946 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/20 18:17:35.593 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/20 18:18:22.780 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/20 18:18:50.105 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/20 18:18:50.774 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/20 18:19:46.709 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/20 18:20:14.994 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/20 18:20:29.916 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/20 18:20:48.812 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/20 18:20:49.258 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/20 18:30:38.636 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/20 18:30:54.384 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/22 09:01:08.670 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/22 09:01:10.749 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/22 09:01:13.142 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/22 09:01:13.807 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/22 09:01:14.493 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/22 09:01:19.865 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/22 09:03:23.030 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/22 09:04:50.798 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/22 09:05:07.751 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/22 09:05:52.606 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/test Exception (403) Reason: "no access to this vhost"
+2020/06/22 09:07:08.834 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/All Exception (403) Reason: "no access to this vhost"
+2020/06/22 09:07:49.792 [E] [rabbirmq.go:110]  ChatVirtualHost未配置
+2020/06/22 09:07:49.792 [E] [rabbirmq.go:116]  ChatRoutingKey未配置
+2020/06/22 09:08:45.557 [E] [rabbirmq.go:44]  channel:Exception (503) Reason: "COMMAND_INVALID - invalid exchange type ''"
+2020/06/22 09:10:41.772 [E] [rabbirmq.go:110]  ChatVirtualHost未配置
+2020/06/22 09:10:41.773 [E] [rabbirmq.go:116]  ChatRoutingKey未配置
+2020/06/22 09:11:07.504 [E] [rabbirmq.go:44]  channel:Exception (503) Reason: "COMMAND_INVALID - invalid exchange type ''"
+2020/06/22 09:24:29.259 [E] [rabbirmq.go:110]  ChatVirtualHost未配置
+2020/06/22 09:24:29.259 [E] [rabbirmq.go:116]  ChatRoutingKey未配置
+2020/06/22 09:24:30.926 [E] [rabbirmq.go:69]  channel:Exception (403) Reason: "ACCESS_REFUSED - operation not permitted on the default exchange"
+2020/06/22 09:55:54.789 [E] [rabbirmq.go:96]  Dial:amqp://admin:123456@139.224.117.139:5672/vhost_test Exception (403) Reason: "no access to this vhost"
+2020/06/22 10:05:30.306 [E] [rabbirmq.go:69]  channel:Exception (403) Reason: "ACCESS_REFUSED - operation not permitted on the default exchange"
+2020/06/22 10:06:33.590 [E] [rabbirmq.go:44]  channel:Exception (503) Reason: "COMMAND_INVALID - invalid exchange type ''"
+2020/06/22 10:07:24.331 [E] [rabbirmq.go:45]  channel:Exception (503) Reason: "COMMAND_INVALID - invalid exchange type ''"
+2020/06/22 10:08:31.836 [E] [rabbirmq.go:45]  channel:Exception (503) Reason: "COMMAND_INVALID - unknown exchange type 'test_bbb'"
+2020/06/22 10:09:51.495 [E] [rabbirmq.go:45]  channel:Exception (403) Reason: "ACCESS_REFUSED - operation not permitted on the default exchange"
+2020/06/22 10:18:06.024 [E] [rabbirmq.go:44]  channel:Exception (403) Reason: "ACCESS_REFUSED - operation not permitted on the default exchange"
+2020/06/22 10:38:01.156 [E] [rabbirmq.go:45]  channel:Exception (403) Reason: "ACCESS_REFUSED - operation not permitted on the default exchange"
+2020/06/24 18:31:30.073 [E] [rabbirmq.go:134]  MQ广播数据成功
+2020/06/24 18:31:31.000 [E] [rabbirmq.go:118]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/06/24 18:31:32.001 [E] [rabbirmq.go:118]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/06/24 18:31:33.000 [E] [rabbirmq.go:118]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/06/24 18:31:34.001 [E] [rabbirmq.go:118]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/06/24 18:31:35.000 [E] [rabbirmq.go:118]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/06/24 18:31:36.000 [E] [rabbirmq.go:118]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/06/24 18:31:37.001 [E] [rabbirmq.go:118]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/06/24 18:31:38.000 [E] [rabbirmq.go:118]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/06/24 18:31:39.000 [E] [rabbirmq.go:118]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/06/24 18:31:40.001 [E] [rabbirmq.go:118]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/06/24 18:31:41.000 [E] [rabbirmq.go:118]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/06/25 09:04:06.070 [E] [rabbirmq.go:135]  MQ广播数据成功
+2020/06/25 09:04:07.001 [E] [rabbirmq.go:118]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/06/25 09:04:08.000 [E] [rabbirmq.go:118]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/06/25 09:04:09.000 [E] [rabbirmq.go:118]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/06/25 09:04:10.001 [E] [rabbirmq.go:118]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/06/25 09:04:39.070 [E] [rabbirmq.go:135]  MQ广播数据成功
+2020/06/25 09:04:40.000 [E] [rabbirmq.go:118]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/06/25 09:04:41.000 [E] [rabbirmq.go:118]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/06/25 09:04:42.001 [E] [rabbirmq.go:118]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/06/25 09:28:14.072 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:15.405 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:16.420 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:17.414 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:18.441 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:19.421 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:20.440 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:21.432 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:22.416 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:23.399 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:24.416 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:25.407 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:26.421 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:27.415 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:28.408 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:29.417 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:30.418 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:31.418 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:32.409 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:33.427 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:34.419 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:35.399 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:36.405 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:37.447 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:38.432 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:39.412 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:40.402 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:41.426 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:42.424 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:43.422 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:44.433 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:45.432 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:46.416 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:47.419 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:48.427 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:49.422 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:50.421 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:51.429 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:52.411 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:53.403 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:54.423 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:55.408 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:56.423 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:57.412 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:58.402 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:28:59.433 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:00.430 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:01.431 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:02.433 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:03.432 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:04.432 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:05.413 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:06.421 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:07.415 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:08.430 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:09.426 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:10.431 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:11.417 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:12.420 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:13.405 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:14.426 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:15.424 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:16.443 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:17.407 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:18.410 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:19.424 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:20.408 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:21.409 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:22.416 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:23.409 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:24.414 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:25.425 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:26.414 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:27.419 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:28.413 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:29.417 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:30.410 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:31.428 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:32.424 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:33.415 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:34.423 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:35.428 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:36.589 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:37.458 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:38.393 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:39.405 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:40.404 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:41.425 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:42.421 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:43.416 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:44.405 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:45.413 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:46.426 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:47.430 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:48.410 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:49.425 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:50.426 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:51.406 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:52.419 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:53.415 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:54.412 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:55.411 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:56.412 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:57.422 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:58.472 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:29:59.404 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:30:00.425 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:30:01.401 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:30:02.419 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:30:03.409 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:30:04.406 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:30:05.410 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:30:06.423 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:30:07.424 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:30:08.416 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:30:09.402 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:30:10.407 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:30:11.420 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:30:12.432 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:30:13.417 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:30:14.420 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:30:15.424 [E] [rabbirmq.go:133]  MQ广播数据成功
+2020/06/25 09:30:18.071 [E] [rabbirmq.go:132]  MQ广播数据成功
+2020/06/25 09:30:19.412 [E] [rabbirmq.go:132]  MQ广播数据成功
+2020/06/25 09:30:20.415 [E] [rabbirmq.go:132]  MQ广播数据成功
+2020/06/25 09:30:21.423 [E] [rabbirmq.go:132]  MQ广播数据成功
+2020/06/25 09:30:22.402 [E] [rabbirmq.go:132]  MQ广播数据成功
+2020/06/25 09:30:23.419 [E] [rabbirmq.go:132]  MQ广播数据成功
+2020/06/25 09:30:24.411 [E] [rabbirmq.go:132]  MQ广播数据成功
+2020/06/25 09:30:25.406 [E] [rabbirmq.go:132]  MQ广播数据成功
+2020/06/25 09:30:26.407 [E] [rabbirmq.go:132]  MQ广播数据成功
+2020/06/25 09:30:27.426 [E] [rabbirmq.go:132]  MQ广播数据成功
+2020/06/25 09:30:28.410 [E] [rabbirmq.go:132]  MQ广播数据成功
+2020/06/25 09:30:29.424 [E] [rabbirmq.go:132]  MQ广播数据成功
+2020/06/25 09:30:30.435 [E] [rabbirmq.go:132]  MQ广播数据成功
+2020/06/25 09:30:51.139 [E] [rabbirmq.go:116]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/06/25 09:30:53.014 [E] [rabbirmq.go:116]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/06/25 09:31:57.162 [E] [rabbirmq.go:116]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/06/25 09:35:37.373 [E] [rabbirmq.go:119]  channel:Exception (504) Reason: "CHANNEL_ERROR - expected 'channel.open'"
+2020/06/25 15:06:27.534 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:06:27.534 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:06:27.535 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:06:27.535 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:06:31.338 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:06:31.338 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:06:31.338 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:06:31.338 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:07:09.471 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:07:09.471 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:07:09.471 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:07:09.471 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:08:03.222 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:08:03.222 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:08:03.222 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:08:03.222 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:09:00.637 [E] [l_detection.go:36]  InlDetection: Error 1364: Field 'id' doesn't have a default value INSERT INTO `l_detection` (`begin_time`, `down_time`, `hz_minute`, `the_num`) VALUES ( '2020-06-25 15:09:00', 0,1,1);
+2020/06/25 15:10:56.257 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:10:56.257 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:10:56.257 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:10:56.257 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:12:18.029 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:12:18.029 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:12:18.029 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:12:18.029 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:12:19.860 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:12:19.860 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:12:19.860 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:12:19.860 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:12:42.919 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:12:42.919 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:12:42.919 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:12:42.919 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:14:37.419 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:14:37.419 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:14:37.419 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:14:37.419 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:15:51.791 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:15:51.791 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:15:51.791 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:15:51.791 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:15:55.467 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:15:55.467 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:15:55.467 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:15:55.467 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:22:42.016 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:22:42.016 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:22:42.016 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:22:42.016 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:25:50.342 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:25:50.342 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:25:50.342 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:25:50.342 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:28:29.111 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:28:29.111 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:28:29.111 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:28:29.111 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:30:18.111 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:30:18.111 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:30:18.111 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:30:18.111 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:30:39.512 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:30:39.512 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:30:39.512 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:30:39.512 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:34:50.453 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:34:50.453 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:34:50.453 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:34:50.453 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:43:27.364 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:43:27.364 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:43:27.364 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:43:27.364 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:48:49.158 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:48:49.158 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:48:49.158 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:48:49.159 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:51:26.178 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:51:26.178 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:51:26.178 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:51:26.178 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:56:15.750 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:56:15.750 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:56:15.750 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:56:15.750 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:57:46.495 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:57:46.495 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:57:46.495 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:57:46.495 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:58:33.061 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:58:33.061 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:58:33.061 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:58:33.061 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 15:59:18.382 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:59:18.382 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:59:18.382 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 15:59:18.382 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 16:04:11.216 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 16:04:11.217 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 16:04:11.217 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 16:04:11.217 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 16:04:12.192 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 16:04:12.193 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 16:04:12.193 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 16:04:12.193 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 16:05:10.806 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 16:05:10.806 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 16:05:10.806 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 16:05:10.806 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 16:07:37.843 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 16:07:37.843 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 16:07:37.843 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 16:07:37.843 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 16:13:38.072 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 16:13:38.073 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 16:13:38.073 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 16:13:38.073 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 16:20:06.572 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 16:20:06.572 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 16:20:06.572 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 16:20:06.572 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/06/25 16:27:49.112 [E] [redisPool.go:36]  EG_SERVER_REDIS_HOST 配置为空
+2020/06/25 16:27:49.112 [E] [redisPool.go:44]  EG_PAY_SERVER_REDIS_HOST 配置为空
+2020/06/25 16:27:49.112 [E] [redisPool.go:52]  EG_CHAT_SERVER_REDIS_HOST 配置为空
+2020/06/25 16:27:49.112 [E] [redisPool.go:60]  LOTT_CRAWLER_REDIS_HOST 配置为空
+2020/07/11 19:47:52.204 [E] [rabbirmqsend.go:200]  Dial:amqp://admin:123456@139.224.117.139:5672/vhost_test dial tcp 139.224.117.139:5672: connect: network is unreachable
+2020/07/11 19:53:36.814 [E] [rabbirmqsend.go:200]  Dial:amqp://admin:123456@139.224.117.139:5672/vhost_test dial tcp 139.224.117.139:5672: i/o timeout
+2020/07/11 20:02:58.841 [E] [rabbirmqsend.go:200]  Dial:amqp://admin:123456@139.224.117.139:5672/vhost_test dial tcp 139.224.117.139:5672: i/o timeout
+2020/07/11 20:05:20.095 [E] [rabbirmqsend.go:200]  Dial:amqp://admin:123456@139.224.117.139:5672/vhost_test dial tcp 139.224.117.139:5672: i/o timeout
+2020/07/11 20:11:07.376 [E] [rabbirmqsend.go:200]  Dial:amqp://admin:123456@139.224.117.139:5672/vhost_test dial tcp 139.224.117.139:5672: i/o timeout
+2020/07/12 12:25:04.512 [E] [rabbirmqsend.go:200]  Dial:amqp://admin:123456@139.224.117.139:5672/vhost_test dial tcp 139.224.117.139:5672: i/o timeout
+2020/07/13 10:30:43.781 [E] [rabbirmqsend.go:41]  channel:Exception (505) Reason: "UNEXPECTED_FRAME - expected content body, got non content body frame instead"
+2020/07/13 10:30:43.781 [E] [rabbirmqsend.go:41]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/07/17 09:50:55.553 [E] [rabbirmqsend.go:54]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/07/17 09:53:08.364 [E] [rabbirmqsend.go:67]  channel:Exception (505) Reason: "UNEXPECTED_FRAME - expected content header for class 60, got non content header frame instead"
+2020/07/17 09:53:08.364 [E] [rabbirmqsend.go:54]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/07/17 09:53:08.364 [E] [rabbirmqsend.go:67]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/07/17 09:53:30.584 [E] [rabbirmqsend.go:67]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/07/17 09:53:30.584 [E] [rabbirmqsend.go:54]  channel:Exception (505) Reason: "UNEXPECTED_FRAME - expected content header for class 60, got non content header frame instead"
+2020/07/17 09:53:52.489 [E] [rabbirmqsend.go:54]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/07/17 09:53:52.489 [E] [rabbirmqsend.go:67]  channel:Exception (505) Reason: "UNEXPECTED_FRAME - expected content body, got non content body frame instead"
+2020/07/17 09:53:52.489 [E] [rabbirmqsend.go:67]  channel:Exception (504) Reason: "channel/connection is not open"
+2020/07/29 15:39:46.846 [E] [rabbirmqsend.go:158]  Mq启动失败...
+2020/07/29 15:40:39.700 [E] [rabbirmqsend.go:158]  配置错误:Mq启动失败...
+2020/07/29 16:20:43.863 [E] [rabbirmqsend.go:158]  配置错误:Mq启动失败...
+2020/07/29 16:22:41.228 [E] [rabbirmqsend.go:158]  配置错误:Mq启动失败...
+2020/07/29 16:23:08.085 [E] [rabbirmqsend.go:158]  配置错误:Mq启动失败...
+2020/07/29 16:25:39.290 [E] [rabbirmqsend.go:158]  配置错误:Mq启动失败...
+2020/07/29 16:25:39.290 [E] [rabbirmqsend.go:158]  配置错误:Mq启动失败...
+2020/07/29 16:26:21.030 [E] [rabbirmqsend.go:158]  配置错误:Mq启动失败...
+2020/07/29 16:39:23.328 [E] [rabbirmqsend.go:158]  配置错误:Mq启动失败...
+2020/07/29 17:28:55.549 [E] [rabbirmqsend.go:157]  配置错误:Mq启动失败...
+2020/07/29 17:29:31.282 [E] [rabbirmqsend.go:157]  配置错误:Mq启动失败...
+2020/07/29 17:29:48.775 [E] [rabbirmqsend.go:157]  配置错误:Mq启动失败...
